@@ -11,10 +11,3 @@ asdsa
 
 faith
 asli
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-asdas
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
