@@ -12,6 +12,15 @@ as
 
 
 sada
+<<<<<<< Updated upstream
+asdsada
+asdsa
+faith
+asli
 
 
-asdsadas
+Salman
+sad
+=======
+sada
+>>>>>>> Stashed changes
