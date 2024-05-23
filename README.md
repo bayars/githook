@@ -16,7 +16,11 @@ faith
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 asdasd
+=======
+asli
+>>>>>>> Stashed changes
 =======
 asli
 >>>>>>> Stashed changes
