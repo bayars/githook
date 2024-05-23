@@ -11,4 +11,7 @@ asdsa
 
 faith
 asli
+<<<<<<< Updated upstream
 asdas
+=======
+>>>>>>> Stashed changes
