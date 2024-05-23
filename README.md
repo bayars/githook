@@ -15,4 +15,3 @@ ulan
 
 as
 
-adasdasd
