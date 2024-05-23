@@ -12,11 +12,6 @@ as
 
 
 sada
-asdsada
-asdsa
-faith
-asli
 
 
-Salman
-sad
+asdsadas
