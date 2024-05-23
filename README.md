@@ -12,4 +12,7 @@ asdsada
 asdsa
 faith
 asli
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
