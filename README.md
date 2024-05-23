@@ -10,4 +10,8 @@ asdsada
 asdsa
 
 faith
+<<<<<<< Updated upstream
 asdasd
+=======
+asli
+>>>>>>> Stashed changes
