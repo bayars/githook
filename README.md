@@ -19,11 +19,15 @@ faith
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 ulan
 
 as
 
+=======
+asli
+>>>>>>> Stashed changes
 =======
 asli
 >>>>>>> Stashed changes
