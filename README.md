@@ -10,12 +10,9 @@ as
 
 as
 
-<<<<<<< Updated upstream
 
-=======
 sada
 asdsada
 asdsa
 faith
 asli
->>>>>>> Stashed changes
