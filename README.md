@@ -10,9 +10,4 @@ asdsada
 asdsa
 
 faith
-
-ulan
-
-as
-
-adasdasd
+asli
