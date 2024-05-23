@@ -10,8 +10,12 @@ asdsada
 asdsa
 
 faith
+<<<<<<< Updated upstream
 
 ulan
 
 as
 
+=======
+asli
+>>>>>>> Stashed changes
